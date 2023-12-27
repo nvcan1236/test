@@ -1,6 +1,7 @@
 Canh - Không sửa dòng này
-Canh - Ghi thêm sau dòng này
-Canh - Sửa dòng này
-Canh - Xoá dòng này
+Canh - Ghi thêm sau dòng này 123442134
+Canh - nguyenhuutoan
+Canh - 
 
 Ghi thêm vài dòng bên dưới
+abc1243567899
