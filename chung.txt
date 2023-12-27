@@ -1,0 +1,6 @@
+Canh - Không sửa dòng này
+Canh - Ghi thêm sau dòng này
+Canh - Sửa dòng này
+Canh - Xoá dòng này
+
+Ghi thêm vài dòng bên dưới
